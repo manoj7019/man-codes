@@ -7,13 +7,13 @@ const MoreAbout = () => {
             <h1 className='laptop:my-4 laptop:text-5xl mobile:text-3xl font-bold'>More <span className='text-red-500'>About me</span></h1>
             {/* <h2 className='laptop:text-xl laptop:m-3 mobile:m-0 mobile:text-sm'>(**Specially designed for smartphone.)</h2> */}
         </div>
-        <p className='mobile:text-lg laptop:text-2xl'>
+        <p className='mobile:text-xl laptop:text-2xl'>
             I built 
             <a className='cursor:pointer text-red-500' href='https://aaraikechicken.in/' > <u>this website</u> </a>
             when I learnt enough HTML and CSS. Content in this website is quite harsh and straight forward. I made this for fun. Just read it. Please don't judge me i'm not this rude in person.
         </p>
         <h2 className='mobile:text-xl laptop:text-3xl font-bold'>Other than programming...</h2>
-        <p className='mobile:text-lg laptop:text-2xl'>I do Graphic Designing, I worked as a Graphic Designer for 30+ Instagram pages on categories like Fitness, Stock market, Startup news, Fashion, Restaurant etc. Here's a 
+        <p className='mobile:text-xl laptop:text-2xl'>I do Graphic Designing, I worked as a Graphic Designer for 30+ Instagram pages on categories like Fitness, Stock market, Startup news, Fashion, Restaurant etc. Here's a 
             <a className='cursor:pointer text-red-500' href='https://manojthegraphicdesigner4u.blogspot.com/?zx=beec75ffbf1e60be'> <u>little blog</u> </a> 
             i created at the very beginning of my designing career. Here's  
             <a className='cursor:pointer text-red-500 ' href='https://drive.google.com/drive/folders/1Qu00B-zlr-fPxdwbPCXFeOIi_GrsgZnT'> <u>few more in my google drive</u> </a>
