@@ -10,7 +10,7 @@ const Hero = () => {
         <h2 className='mobile:text-2xl laptop:text-4xl'>Front-end developer</h2>
       </div>
       <h2 className='mobile:text-2xl laptop:text-4xl font-bold'>I dropped out of engineering in my 2nd year...</h2>
-      <p className='mobile:text-lg laptop:text-2xl'>and learnt programming online. After going through the long period of tutorial hell, not able to build even a small project. Finally, something kicked into my mind. I always wanted to impress this girl named Zara. I sketched 
+      <p className='mobile:text-xl laptop:text-2xl'>and learnt programming online. After going through the long period of tutorial hell, not able to build even a small project. Finally, something kicked into my mind. I always wanted to impress this girl named Zara. I sketched 
         <a className='cursor:pointer text-red-500' href='https://drive.google.com/file/d/1UUIr9ARJdla5v6A5gj52PPw4CIGdHVWt/view?usp=drivesdk'> <u>this thing</u> </a>
         on board and turned it into a 
         <a className='cursor:pointer text-red-500' href='https://manoj7019.github.io/impressing-zara/'> <u>small program.</u> </a>
