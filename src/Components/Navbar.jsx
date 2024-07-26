@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className='fixed inset-x-0 z-50 top-0 flex justify-between items-center bg-gray-50 p-3'>
         <Anchorlink href='#hero'>
-            <h1 className='text-2xl text-black font-bold'>My <span className='text-red-500'>Portfolio</span></h1>
+            <h1 className='mobile:px-4 text-2xl text-black font-bold'>mancodes<span className='text-red-500'>.in</span></h1>
         </Anchorlink>
         <div className='mobile:hidden laptop:flex justify-between gap-10'>
             <Anchorlink href='#projects'>
