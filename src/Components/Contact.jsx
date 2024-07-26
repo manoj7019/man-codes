@@ -4,6 +4,7 @@ import GithubImage from '/github.webp'
 import CallImage from '/call.webp'
 import WhatsappImage from '/whatsapp.webp'
 import LinkedInImage from '/linkedin.webp'
+import { Link } from 'react-router-dom'
 
 const Contact = () => {
   return (
@@ -34,6 +35,9 @@ const Contact = () => {
                 <img className='h-auto w-full' src={LinkedInImage}/>
             </a>
         </div>
+        <Link to='/web'>
+            <button className='px-36'>ManCodes</button>
+        </Link>
     </div>
   )
 }
