@@ -10,7 +10,7 @@ const Hero = () => {
         <h2 className='mobile:text-2xl laptop:text-4xl'>Front-end developer</h2>
       </div>
       <h2 className='mobile:text-2xl laptop:text-4xl font-bold'>I learnt programming online...</h2>
-      <p className='mobile:text-xl laptop:text-2xl'>Yes. After going through the long period of tutorial hell, not able to build even a small project. Finally, something kicked into my mind and I sketched 
+      <p className='mobile:text-xl laptop:text-2xl'>...through an Open source community 'The Odin Project'. After learning fundamentals of Programming, I sketched 
         <a className='cursor:pointer text-red-500' href='https://drive.google.com/file/d/1UUIr9ARJdla5v6A5gj52PPw4CIGdHVWt/view?usp=drivesdk'> <u>this thing</u> </a>
         on board and turned it into a 
         <a className='cursor:pointer text-red-500' href='https://manoj7019.github.io/impressing-zara/'> <u>small program.</u> </a>
@@ -24,10 +24,11 @@ const Hero = () => {
         <a className='cursor:pointer text-red-500' href='https://manoj7019.github.io/etch-a-sketch/' > <u>Etch-a-sketch,</u> </a>
         <a className='cursor:pointer text-red-500' href='https://aaraike-nursery.netlify.app/' > <u>Aaraike nursery (pwa),</u> </a>
         <a className='cursor:pointer text-red-500' href='https://manoj7019.github.io/Calculator/' > <u>Calculator</u> </a>
-        and so on. I've learnt HTML, CSS, JS languages, ReactJS Library and TailwindCSS framework.
+        and so on. I've learnt HTML, CSS, JS languages, ReactJS Library, TailwindCSS framework and Firebase Database.
         <br></br>
         <br></br>
-        Now I'm on my journey learning fullstack Javascript. And this is my story.
+        Currently working on a finance consultation app 
+        <a className='cursor:pointer text-red-500' href='https://sjfintech.in/' > <u>SJ Fintech.</u> </a>
       </p>
     </div>
   )
