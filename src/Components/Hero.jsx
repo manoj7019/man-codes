@@ -7,7 +7,7 @@ const Hero = () => {
       <div className='laptop:mb-12 laptop:mt-24 mobile:mt-12'>
         <h2 className='mobile:text-2xl laptop:text-4xl'>Hey!</h2>
         <h1 className='mobile:text-4xl laptop:text-8xl font-bold '>I'm <span className='text-red-500'>Manoj A N</span></h1>
-        <h2 className='mobile:text-2xl laptop:text-4xl'>Front-end developer</h2>
+        <h2 className='mobile:text-2xl laptop:text-4xl'>Web developer</h2>
       </div>
       <h2 className='mobile:text-2xl laptop:text-4xl font-bold'>I learnt programming online...</h2>
       <p className='mobile:text-xl laptop:text-2xl'>...through an Open source community 'The Odin Project'. After learning fundamentals of Programming, I sketched 
