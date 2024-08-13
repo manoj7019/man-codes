@@ -25,14 +25,15 @@ const Hero = () => {
         <a className='cursor:pointer text-red-500' href='https://aaraike-nursery.netlify.app/' > <u>Aaraike nursery (pwa),</u> </a>
         <a className='cursor:pointer text-red-500' href='https://manoj7019.github.io/Calculator/' > <u>Calculator</u> </a>
 
-        and so on. I've learnt HTML, CSS, JS languages, ReactJS Library, TailwindCSS framework and Firebase Database. Currently working on a finance consultation app
         <a className='cursor:pointer text-red-500' href='https://sjfintech.in/'> <u>SJ Fintech.</u></a>
 
         and so on. I've learnt HTML, CSS, JS languages, ReactJS Library, TailwindCSS framework and Firebase Database.
         <br></br>
         <br></br>
         Currently working on a finance consultation app 
-        <a className='cursor:pointer text-red-500' href='https://sjfintech.in/' > <u>SJ Fintech.</u> </a>
+        <a className='cursor:pointer text-red-500' href='https://sjfintech.in/' > <u>SJ Fintech</u> </a>
+        and a Photography website for a client
+        <a className='cursor:pointer text-red-500' href='https://partofparth.netlify.app/' > <u>Parth Kulkarni.</u> </a>
       </p>
     </div>
   )
